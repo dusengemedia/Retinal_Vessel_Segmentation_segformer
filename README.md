@@ -115,7 +115,26 @@ across all external datasets **without fine-tuning**.
 
 This demonstrates **strong transformer-based generalization**.  
 
+## Future Work
+
+- Evaluate Swin Transformer V2
+- Investigate Mask2Former
+- Improve thin-vessel segmentation
+- Optimize inference speed for clinical deployment
 
 
 
+## 📄 Paper Information
 
+**Title:** Deep Learning-Driven Retinal Vessel Segmentation Using a Transformer-Based Architecture: A Performance Evaluation  
+**Conference:** IEEE ICARC 2026  
+**Status:** Accepted 
+ If you use this work, please cite:
+
+```bibtex
+@inproceedings{byiringiro2026segformer,
+  title={Deep Learning-Driven Retinal Vessel Segmentation Using a Transformer-Based Architecture: A Performance Evaluation},
+  author={Byiringiro, Yves and Niyonteze, Jean De Dieu and Tuyishime, Liliane and Dusenge, Mediatrice and Uzigusenga, Josue and Uhoranishema, Benny},
+  booktitle={IEEE ICARC},
+  year={2026}
+}
