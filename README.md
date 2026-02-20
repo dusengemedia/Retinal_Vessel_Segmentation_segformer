@@ -115,9 +115,3 @@ across all external datasets **without fine-tuning**.
 
 This demonstrates **strong transformer-based generalization**.  
 
-## Future Work
-
-- Evaluate Swin Transformer V2
-- Investigate Mask2Former
-- Improve thin-vessel segmentation
-- Optimize inference speed for clinical deployment
